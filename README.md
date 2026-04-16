@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adwait%20Reddy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Analytics%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adwait%20Reddy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Builder%20%7C%20Data%20Analytics%2FEngineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Data+Science+Graduate+%40+UWA+%F0%9F%8E%93;Data+Analyst+%40+Accenture+%F0%9F%92%BC;Research+Assistant+%40+UWA+%F0%9F%94%AC;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A;Analytics+%7C+SQL+%7C+Python+%7C+Power+BI;Dashboards+%7C+Forecasting+%7C+Storytelling+with+Data)](https://git.io/typing-svg)
