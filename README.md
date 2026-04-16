@@ -22,20 +22,20 @@
 
 ### 🙋‍♂️ Hey, I'm Adwait!
 
-A **Data Science graduate from UWA** with a passion for turning complex data into powerful decisions. I've worked at **Accenture**, interned at **Norwood Systems** building AI applications, and served as a **Research Assistant at UWA**.
+A **Data Science graduate from UWA** with a passion for turning complex data into powerful decisions. I've worked at **Accenture** as a Application Data Analyst, interned at **Norwood Systems** analying and building AI applications, and served as a **Research Assistant at UWA**.
 
 I don't just analyse data — I build end-to-end systems that make data *useful*.
 
 <br/>
 
-🎓 &nbsp; BSc Data Science — **University of Western Australia**
-💼 &nbsp; Ex-Data Analyst Intern — **Accenture**
-🤖 &nbsp; Ex-AI/ML Intern — **Norwood Systems**
+🎓 &nbsp; Ms Data Science — **University of Western Australia**
 🔬 &nbsp; Research Assistant — **UWA**
+💼 &nbsp; Ex- Application Data Analyst — **Accenture**
+🤖 &nbsp; Ex-AI/ML Intern — **Norwood Systems**
 📍 &nbsp; Based in **Perth, Western Australia**
-🌱 &nbsp; Currently levelling up in **Data Engineering & AI Systems**
+🌱 &nbsp; Currently levelling up in **Data Analytics/Engineering & AI Systems**
 💬 &nbsp; Ask me about **SQL · Python · Power BI · AI Apps**
-📫 &nbsp; Reach me at **your@email.com**
+📫 &nbsp; Reach me at **arwork860@gmail.com**
 ⚡ &nbsp; Fun fact: **I automate things so I can spend more time automating more things**
 
 <br/>
@@ -45,9 +45,9 @@ I don't just analyse data — I build end-to-end systems that make data *useful*
 ### 🎯 What I'm focused on right now
 
 ```txt
+📈 Analzing real world data and creating dashboards that actually tell a story with the help of AI assistant
 📊 Building production-ready data pipelines
-🤖 Developing AI-powered applications
-📈 Creating dashboards that actually tell a story
+🤖 Developing AI-powered applications for day to day life questions
 🔍 Exploring LLMs, RAG & AI Agents
 ```
 
@@ -55,11 +55,11 @@ I don't just analyse data — I build end-to-end systems that make data *useful*
 
 ### 💡 My Approach
 
-> *"Data is only as good as the decisions it drives."*
+> *"The best analysts don't just read data — they build the AI that reads it for them."*
 
-I believe in building things that **matter** — not just running models, but shipping solutions.
-Whether it's a real-time AI voice system, a nutrition tracker, or a housing market dashboard —
-I focus on the **full journey**: from raw data to real impact.
+I sit at the intersection of **Data Analytics** and **Artificial Intelligence** — where insight meets automation.
+Analytics tells you *what happened*. AI tells you *what's next*.
+I build systems that do **both** — turning raw numbers into intelligent, self-improving decisions.
 
 ---
 ---
