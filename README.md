@@ -16,20 +16,52 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-```python
-adwait = {
-    "name"       : "Adwait Reddy",
-    "location"   : "Perth, Western Australia 🦘",
-    "education"  : "Data Science @ University of Western Australia",
-    "experience" : ["Accenture (Consulting)", "Data-driven projects"],
-    "building"   : ["AI Voice Apps", "Nutrition AI", "Analytics Dashboards"],
-    "passions"   : ["AI/ML", "Data Analytics", "Real-World Problem Solving"],
-    "fun_fact"   : "I turn messy data into clean insights ✨"
-}
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 🙋‍♂️ Hey, I'm Adwait!
+
+A **Data Science graduate from UWA** with a passion for turning complex data into powerful decisions. I've worked at **Accenture**, interned at **Norwood Systems** building AI applications, and served as a **Research Assistant at UWA**.
+
+I don't just analyse data — I build end-to-end systems that make data *useful*.
+
+<br/>
+
+🎓 &nbsp; BSc Data Science — **University of Western Australia**
+💼 &nbsp; Ex-Data Analyst Intern — **Accenture**
+🤖 &nbsp; Ex-AI/ML Intern — **Norwood Systems**
+🔬 &nbsp; Research Assistant — **UWA**
+📍 &nbsp; Based in **Perth, Western Australia**
+🌱 &nbsp; Currently levelling up in **Data Engineering & AI Systems**
+💬 &nbsp; Ask me about **SQL · Python · Power BI · AI Apps**
+📫 &nbsp; Reach me at **your@email.com**
+⚡ &nbsp; Fun fact: **I automate things so I can spend more time automating more things**
+
+<br/>
+
+---
+
+### 🎯 What I'm focused on right now
+
+```txt
+📊 Building production-ready data pipelines
+🤖 Developing AI-powered applications
+📈 Creating dashboards that actually tell a story
+🔍 Exploring LLMs, RAG & AI Agents
 ```
 
+---
+
+### 💡 My Approach
+
+> *"Data is only as good as the decisions it drives."*
+
+I believe in building things that **matter** — not just running models, but shipping solutions.
+Whether it's a real-time AI voice system, a nutrition tracker, or a housing market dashboard —
+I focus on the **full journey**: from raw data to real impact.
+
+---
 ---
 
 ## 🛠️ Tech Stack & Tools
