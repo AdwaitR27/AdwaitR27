@@ -90,12 +90,7 @@ adwait = {
 
 </div>
 
----
 ## 🏆 Awards & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🥇 Awards & Recognition
 
@@ -104,57 +99,19 @@ Recognised as part of the AI team contributing to award-winning innovations:
 - 🏅 INCITE Research & Innovation Industry Award for **OpenSpan™ Call Protect**
 - 🏅 **Dr Mal Bryce WA Tech Company of the Year** Award
 
----
-
-**🚒 DFES Hackathon, Perth WA**
-Secured **5th place out of 50 teams** in the Department of Fire and Emergency Services Hackathon.
-
-[![Certificate](https://img.shields.io/badge/🔗_View_Certificate-4CAF50?style=flat-square)](https://drive.google.com/drive/folders/1Vm4zZX_CjhVrg3MaJBrbWFdXOUV3oVUQ?usp=sharing)
+**🚒 DFES Hackathon, Perth WA** — Secured **5th place out of 50 teams**
+[![View Certificate](https://img.shields.io/badge/🔗_View_Certificate-4CAF50?style=flat-square)](https://drive.google.com/drive/folders/1Vm4zZX_CjhVrg3MaJBrbWFdXOUV3oVUQ?usp=sharing)
 
 ---
-
-**📄 Recommendation — Norwood Systems**
-Received a formal recommendation certificate upon completion of the AI/ML internship.
-
-[![Certificate](https://img.shields.io/badge/🔗_View_Certificate-4CAF50?style=flat-square)](https://drive.google.com/file/d/1kVjiZm92VOkkzSyw18ycsp4Aic-uFgqZ/view?usp=sharing)
-
-</td>
-<td width="50%" valign="top">
 
 ### 📜 Certifications
 
-![DataCamp](https://img.shields.io/badge/DataCamp-Associate_Data_Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-
-[![View](https://img.shields.io/badge/🔗_View-grey?style=flat-square)](https://www.datacamp.com/certificate/DEA0011228146174)
-
----
-
-![DataCamp](https://img.shields.io/badge/DataCamp-Associate_Data_Analyst-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-
-[![View](https://img.shields.io/badge/🔗_View-grey?style=flat-square)](https://www.datacamp.com/certificate/DAA0012418002091)
-
----
-
-![DataCamp](https://img.shields.io/badge/DataCamp-Associate_AI_Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-
-[![View](https://img.shields.io/badge/🔗_View-grey?style=flat-square)](https://www.datacamp.com/certificate/AIEDA0012451664859)
-
----
-
-![Coursera](https://img.shields.io/badge/Coursera-Python_for_Data_Analysis-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
-[![View](https://img.shields.io/badge/🔗_View-grey?style=flat-square)](https://www.coursera.org/account/accomplishments/specialization/certificate/CGFHZPHHDHMT)
-
----
-
-![Microsoft](https://img.shields.io/badge/Microsoft-Essential_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-[![View](https://img.shields.io/badge/🔗_View-grey?style=flat-square)](https://www.linkedin.com/learning/certificates/6bef9c8b0202de1f6be237a4ddd12229f8847849a22cd0cd105da05113a600e0/)
-
-</td>
-</tr>
-</table>
-
+| | | |
+|:---:|:---:|:---:|
+| [![DC AI Engineer](https://raw.githubusercontent.com/AdwaitR27/AdwaitR27/main/assets/AI_Engineer.png)](https://www.datacamp.com/certificate/AIEDA0012451664859) | [![DC Data Analyst](https://raw.githubusercontent.com/AdwaitR27/AdwaitR27/main/assets/Data_Analyst.png)](https://www.datacamp.com/certificate/DAA0012418002091) | [![DC Data Engineer](https://raw.githubusercontent.com/AdwaitR27/AdwaitR27/main/assets/Data_Engineer.png)](https://www.datacamp.com/certificate/DEA0011228146174) |
+| **DataCamp — AI Engineer for Developers** <br/> *(Apr 2026)* | **DataCamp — Associate Data Analyst** <br/> *(Apr 2026)* | **DataCamp — Associate Data Engineer** <br/> *(Feb 2026)* |
+| [![Python](https://raw.githubusercontent.com/AdwaitR27/AdwaitR27/main/assets/python.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/CGFHZPHHDHMT) | [![Excel](https://raw.githubusercontent.com/AdwaitR27/AdwaitR27/main/assets/Excel.jpeg)](https://www.linkedin.com/learning/certificates/6bef9c8b0202de1f6be237a4ddd12229f8847849a22cd0cd105da05113a600e0/) | [![Norwood](https://raw.githubusercontent.com/AdwaitR27/AdwaitR27/main/assets/Norwood_systems.png)](https://drive.google.com/file/d/1kVjiZm92VOkkzSyw18ycsp4Aic-uFgqZ/view?usp=sharing) |
+| **Coursera — Python for Everybody** <br/> *(University of Michigan, Feb 2023)* | **LinkedIn Learning — Excel Essential Training** <br/> *(Microsoft 365, Feb 2026)* | **Norwood Systems — Internship Recommendation** <br/> *(Summer 2024)* |
 -----
 
 ## 🚀 Featured Projects
