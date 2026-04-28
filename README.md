@@ -22,7 +22,7 @@
 
 ### 🙋‍♂️ Hey, I'm Adwait!
 
-A **Data Science graduate from UWA** with a passion for turning complex data into powerful decisions. I've worked at **Accenture** as a Application Data Analyst, interned at **Norwood Systems** analying and building AI applications, and served as a **Research Assistant at UWA**.
+A **Data Science graduate from UWA** with a passion for turning complex data into powerful decisions. I've worked at **Accenture** as a Application Data Analyst, interned at **Norwood Systems** analysing and building AI applications, and served as a **Research Assistant at UWA**.
 
 I don't just analyse data — I build end-to-end systems that make data *useful*.
 
